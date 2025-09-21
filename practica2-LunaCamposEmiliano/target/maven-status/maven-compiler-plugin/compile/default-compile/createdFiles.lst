@@ -1,0 +1,5 @@
+servlets/dao/BookDAO.class
+servlets/model/Book.class
+com/mycompany/practica2/prueba/JAXRSConfiguration.class
+servlets/controller/BookServlet.class
+com/mycompany/practica2/prueba/resources/JavaEE8Resource.class
